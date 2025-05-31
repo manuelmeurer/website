@@ -16,6 +16,6 @@ If you want to get in touch, try [email](mailto:manuel@meurer.io) or one of thes
 \~
 [GitHub](https://github.com/manuelmeurer)
 \~
-[Twitter](https://twitter.com/manume)
+[Bluesky](https://bsky.app/profile/manuelmeurer.com)
 \~
 [Mastodon](https://ruby.social/@manuel){:rel="me"}
