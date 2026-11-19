@@ -1,0 +1,14 @@
+body { display: block; min-height: 0; }
+.card {
+  width: 1200px;
+  height: 630px;
+  display: flex;
+  align-items: center;
+  gap: 72px;
+  padding: 0 96px;
+  background: radial-gradient(circle at 85% 15%, var(--accent-glow), transparent 60%), var(--bg);
+}
+.card img { width: 340px; height: 340px; border-radius: 50%; border: 3px solid var(--border); }
+.card h1 { font-size: 76px; }
+.card .subtitle { font-size: 36px; margin-top: 12px; }
+.card .domain { margin-top: 48px; font-size: 26px; color: var(--accent); font-weight: 500; }

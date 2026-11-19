@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Meurer",
+  "short_name": "Manuel Meurer",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#111114",
+  "theme_color": "#111114",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon-mask.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
